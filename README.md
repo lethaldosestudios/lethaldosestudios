@@ -1,3 +1,5 @@
+![CREATE OR DIE in bold, off-white ASCII-style block lettering with grey outline shadows on a black background.](assets/create-or-die.png)
+
 ## Hi there 👋
 
 <!--
