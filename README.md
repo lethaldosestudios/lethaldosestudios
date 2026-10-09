@@ -1,6 +1,5 @@
 ![CREATE OR DIE in bold, off-white ASCII-style block lettering with grey outline shadows on a black background.](assets/create-or-die.svg)
 
-## Hi there 👋
 
 <!--
 **lethaldosestudios/lethaldosestudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
