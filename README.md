@@ -1,4 +1,8 @@
-![CREATE OR DIE in bold, off-white ASCII-style block lettering with grey outline shadows on a black background.](assets/create-or-die.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/create-or-die-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/create-or-die-light.svg">
+  <img alt="CREATE OR DIE in bold ASCII-style block lettering with layered outline shadows." src="assets/create-or-die-light.svg">
+</picture>
 
 
 <!--
